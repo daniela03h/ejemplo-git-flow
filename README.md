@@ -1,6 +1,8 @@
 # <div align="center">Veterinary Management System
 </div>
 
+
+
 <div align="center"><img src="https://i.pinimg.com/originals/2c/2d/54/2c2d541677e9dcccc15e45d9221de835.jpg" alt="Image Description" width="300"></div>
 
 <p align="justify">This Veterinary Management System is a web application designed to help veterinarians manage pet information efficiently. With this system, veterinarians can perform CRUD (Create, Read, Update, Delete) operations on pets and their owners. The app is built with JavaScript and incorporates concepts and skills learned at riwi.</p>
